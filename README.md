@@ -1,4 +1,6 @@
-### Olá! Eu sou o João Paulo 👋
+### 👋 Olá! Eu sou o João Paulo.
+### 🧑‍💻 Estudante De Analise E Desenvolvimento De Sistemas.
+### 👉 Apaixonado por tecnologia, e feliz por poder facilitar e mudar a vida das pessoas através da programação.
 
 <div align="">
   <a href="https://github.com/joao123p">
@@ -6,11 +8,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao123p&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Minhas Redes Sociais 👇
-
+### Minhas Redes Sociais 👇
+  <div> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-457342186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 <a href="https://www.instagram.com/jao_prg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:paulo2954@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+
+##
 
 ### Tecnologias que uso no dia a dia.
 <div style="display: inline_block"><br>
@@ -23,5 +28,3 @@
   <img align="center" alt="joao-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="right" height="150" style="right:80px; top:50px; position: absolute;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e479uvekb3c4bcq3crstnsexb1ediplbw1pht67uga8&rid=giphy.gif&ct=g">
 </div>
-
-### Apaixonado por tecnologia, e feliz por poder facilitar e mudar a vida das pessoas através da programação.
