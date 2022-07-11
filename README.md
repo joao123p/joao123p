@@ -29,6 +29,6 @@
   <img align="center" alt="joao-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="right" height="150" style="right:80px; top:50px; position: absolute;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e479uvekb3c4bcq3crstnsexb1ediplbw1pht67uga8&rid=giphy.gif&ct=g"> 
  
+    ![Snake animation](https://github.com/joao123p/joao123p/blob/output/github-contribution-grid-snake.svg)
+  
  </div>
-
-![Snake animation](https://github.com/joao123p/joao123p/blob/output/github-contribution-grid-snake.svg)
