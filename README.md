@@ -5,7 +5,7 @@
 <div align="">
   <a href="https://github.com/joao123p">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao123p&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao123p&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao123p&layout=compact&theme=dracula"/>
 </div>
 
 ### Minhas Redes Sociais 👇
