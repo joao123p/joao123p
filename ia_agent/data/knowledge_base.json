@@ -1,0 +1,8 @@
+{
+    "o que é um agente inteligente?": "Um agente inteligente é um sistema capaz de perceber o ambiente, tomar decisões autônomas e agir de acordo com um objetivo. Ele combina percepção, raciocínio e ação para resolver problemas de maneira proativa.",
+    "como funciona o ciclo perceba-decide-aja": "O ciclo perceba-decide-aja descreve agentes que observam o ambiente, escolhem uma ação com base em objetivos e conhecimento, e executam a ação. O ciclo se repete continuamente para permitir adaptações.",
+    "qual a diferença entre ia fraca e forte": "IA fraca (ou estreita) é projetada para tarefas específicas, como reconhecimento de imagens ou chatbots. IA forte seria uma inteligência geral capaz de executar qualquer tarefa intelectual humana, algo que ainda não existe.",
+    "como começar a estudar machine learning": "Comece com estatística básica, programação em Python e bibliotecas como NumPy e pandas. Em seguida, explore algoritmos clássicos (regressão, árvores de decisão) e pratique com projetos reais para consolidar o aprendizado.",
+    "o que são ferramentas em agentes": "Ferramentas permitem que agentes deleguem cálculos ou consultas para componentes especializados. Isso amplia as capacidades do agente sem aumentar sua complexidade central.",
+    "como posso treinar um modelo pequeno": "Colete dados limpos, divida em conjuntos de treino e validação, escolha um algoritmo apropriado e ajuste hiperparâmetros com validação cruzada. Monitore métricas relevantes e evite overfitting com regularização ou early stopping."
+}
